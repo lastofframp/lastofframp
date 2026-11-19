@@ -15,11 +15,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a senior software engineer for ten years. I have got experience in everything from simple websites to full-scale applications for large companies.
+I’m a Senior Full Stack Developer with over 10 years of experience building web and mobile applications across a range of industries. I turn complex requirements into reliable, responsive applications that are easy to use and can scale as demand grows.
 
-With my ability to quickly identify third-party applications, vendor technical specifications and guides, I have a proven track record of teamwork, initiative, and ownership to drive processes and solve problems, combined with strong leadership, mentoring, coaching, and motivation skills. 
+I take ownership of projects from design through delivery. I evaluate third-party tools, interpret vendor specifications, and choose integrations that fit the product and the people who use it. I write clean, testable code that other developers can understand, maintain, and extend.
 
-I value the quality of code and I always write clean, maintainable, scalable, and testable code. I have excellent communication skills and the ability to interact professionally with a diverse group, executives, managers, and subject matter experts.
+As a technical leader, I mentor developers, guide teams through difficult decisions, and look for practical ways to improve how we work. I communicate clearly with engineers, executives, managers, and subject matter experts so everyone understands the tradeoffs and can make informed decisions.
 
 I proficient at:
 
